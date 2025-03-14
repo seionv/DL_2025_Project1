@@ -93,9 +93,9 @@ Train Loss|Test Loss|Train Acc.(%)|Test Acc.(%) |Learning Rate
 
 Best result:
 
-Best Model Saved    |   Test loss    |    Test acc
---------------------|----------------|-------------
-     Best model     |    0.20615     |    0.93928
+Best Model Saved|Test loss|Test acc
+---|---|---
+Best model|0.20615|0.93928
 
 Kaggle Score:
 
